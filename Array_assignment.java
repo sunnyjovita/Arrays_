@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Array_assignment {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        // Exercise 1
+//         Exercise 1
 //        int num[] = new int[10];
 //        for (int i = 0; i < num.length; i++) {
 //            System.out.println("Enter " + i + " value : ");
